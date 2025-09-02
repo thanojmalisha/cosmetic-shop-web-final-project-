@@ -1,3 +1,9 @@
+<?php include 'includes/db.php';
+
+
+
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,9 +12,8 @@
     <title>Document</title>
 </head>
 <body>
-    <div class="main-container">
-        <h1>Hello World</h1>
-    </div>
+    
+
 
     
 </body>
